@@ -38,6 +38,7 @@ class Story:
 # Here's a story to get you started
 
 silly_story = Story(
+    # Loop through the words list to get each word
     ["place", "noun", "verb", "adjective", "plural_noun"],
     """Once upon a time, in a long-ago {place}, there lived an exceptionally
        {adjective} {noun}. It loved to {verb} with {plural_noun}."""
